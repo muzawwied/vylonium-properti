@@ -6,7 +6,7 @@ Kumpulan template produksi siap pakai — semua 100% vanilla (zero dependencies)
 
 Landing page resmi Clincoo — "Bangun Website dengan AI" — tema terang monokrom, tipografi Space Grotesk + Inter.
 
-- Demo: https://muzawwied.github.io/clincoo/
+- Demo: https://muzawwied.github.io/Clincoo/
 - Kode: repo ini (branch `main`)
 - Halaman: Beranda, Fitur, Harga, Tentang, Kontak, 404
 - Animasi: preloader, efek ketik placeholder, scroll reveal, counter, marquee, tilt 3D, progress bar, toggle harga bulanan/tahunan, FAQ accordion
