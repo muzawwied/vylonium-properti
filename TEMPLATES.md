@@ -1,21 +1,21 @@
-# Daftar Template Clincoo
+# Daftar Template
 
 Kumpulan template produksi siap pakai — semua 100% vanilla (zero dependencies), responsif, SEO lengkap, dan auto-deploy ke GitHub Pages dari branch `main`.
 
-## 1. Landing Platform Manajemen Klinik — *template utama, root repo ini*
+## 1. Vylonium Properti — *template utama, root repo ini*
 
-Landing page "Clincoo — Platform Manajemen Klinik Modern": rekam medis, pendaftaran pasien, jadwal dokter, laporan keuangan. Tema terang, aksen biru medis, tipografi Plus Jakarta Sans.
+Template web properti profesional: katalog listing dengan filter, valuasi, layanan agen. Tema terang, aksen electric cyan-teal, tipografi Fraunces + Plus Jakarta Sans.
 
-- Demo: https://muzawwied.github.io/Clincoo/
+- Demo: https://muzawwied.github.io/vylonium-properti/
 - Kode: root repo ini (branch `main`)
-- Halaman: Beranda, Fitur, Harga, Tentang, Kontak, 404
-- Animasi: preloader, efek ketik, scroll reveal, counter, marquee, tilt 3D, progress bar, toggle harga, FAQ accordion
+- Halaman: Beranda, Properti (katalog + filter), Layanan, Tentang, Kontak, 404
+- Animasi: preloader, efek ketik, scroll reveal, counter, marquee, tilt 3D, progress bar, fade-in grid, pencarian hero → katalog
 
 ## 2. AI Builder Landing — *template tambahan*
 
 Landing page "Bangun Website dengan AI" — tema terang monokrom, tipografi Space Grotesk + Inter.
 
-- Demo: https://muzawwied.github.io/Clincoo/ai-landing/
+- Demo: https://muzawwied.github.io/vylonium-properti/ai-landing/
 - Kode: folder `ai-landing/` di repo ini
 - Fitur khas: kartu prompt AI interaktif di hero (saran prompt, menu lampiran, simulasi "Merakit…"), marquee brand, toggle harga bulanan/tahunan
 
@@ -49,4 +49,4 @@ Situs portofolio profesional multi-halaman.
 
 ---
 
-> Catatan: alamat repo lama (`vylonium`, `vylonium-health`) otomatis diarahkan GitHub ke repo ini.
+> Catatan: alamat repo lama (`Clincoo`, `vylonium`, `vylonium-health`) otomatis diarahkan GitHub ke repo ini.
