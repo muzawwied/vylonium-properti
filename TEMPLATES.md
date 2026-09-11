@@ -1,12 +1,12 @@
-# Daftar Template Vylonium
+# Daftar Template Clincoo
 
 Kumpulan template produksi siap pakai — semua 100% vanilla (zero dependencies), responsif, SEO lengkap, dan auto-deploy ke GitHub Pages dari branch `main`.
 
 ## 1. AI Builder Landing — *template ini*
 
-Landing page "Bangun Website dengan AI" — tema terang monokrom, tipografi Space Grotesk + Inter.
+Landing page resmi Clincoo — "Bangun Website dengan AI" — tema terang monokrom, tipografi Space Grotesk + Inter.
 
-- Demo: https://muzawwied.github.io/vylonium/
+- Demo: https://muzawwied.github.io/clincoo/
 - Kode: repo ini (branch `main`)
 - Halaman: Beranda, Fitur, Harga, Tentang, Kontak, 404
 - Animasi: preloader, efek ketik placeholder, scroll reveal, counter, marquee, tilt 3D, progress bar, toggle harga bulanan/tahunan, FAQ accordion
@@ -42,4 +42,6 @@ Situs portofolio profesional multi-halaman.
 
 ---
 
-> Catatan: alamat repo lama `Clincoo` dan `vylonium-health` otomatis diarahkan GitHub ke repo ini.
+## 6. Portfolio SaaS / Aplikasi
+
+Template lain bermerek Vylonium (top-up, tasks, portfolio) tersedia di repos masing-masing di atas.

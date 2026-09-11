@@ -27,7 +27,7 @@ input,select,textarea{font:inherit;color:inherit}
 .pre{position:fixed;inset:0;z-index:200;background:var(--bg);display:grid;place-items:center;transition:opacity .5s var(--ease),visibility .5s}
 .pre.done{opacity:0;visibility:hidden}
 .pre-in{display:grid;justify-items:center;gap:18px}
-.pre-in svg{width:56px;height:42px;animation:prePulse 2.2s ease-in-out infinite}
+.pre-in svg{width:56px;height:56px;border-radius:99px;animation:prePulse 2.2s ease-in-out infinite}
 .pre-bar{width:130px;height:3px;border-radius:99px;background:var(--line);overflow:hidden}
 .pre-bar i{display:block;height:100%;width:40%;border-radius:99px;background:var(--ink);animation:preLoad 1.1s var(--ease) infinite}
 @keyframes preLoad{0%{transform:translateX(-110%)}100%{transform:translateX(330%)}}
@@ -41,7 +41,7 @@ input,select,textarea{font:inherit;color:inherit}
 .pill-in{background:rgba(255,255,255,.8);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid rgba(10,10,12,.06);border-radius:99px;padding:12px 22px;display:flex;align-items:center;gap:20px;box-shadow:0 8px 30px rgba(10,10,12,.06);transition:box-shadow .3s,background .3s}
 .pill.scrolled .pill-in{background:rgba(255,255,255,.92);box-shadow:0 12px 40px rgba(10,10,12,.1)}
 .brand{display:inline-flex;align-items:center;gap:10px;font-family:var(--display);font-weight:800;font-size:1.18rem;letter-spacing:-.03em;margin-right:auto}
-.brand svg{width:32px;height:24px;transition:transform .4s var(--ease)}
+.brand svg{width:32px;height:32px;border-radius:99px;transition:transform .4s var(--ease)}
 .brand:hover svg{transform:rotate(-8deg) scale(1.08)}
 .pnav{display:flex;gap:24px}
 .pnav a{font-size:.72rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);transition:color .2s;position:relative}
