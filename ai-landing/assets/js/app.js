@@ -1,4 +1,4 @@
-/* ================= Clincoo AI Builder — vanilla, zero deps ================= */
+/* ================= Clinqoo AI Builder — vanilla, zero deps ================= */
 'use strict';
 const $=(s,c=document)=>c.querySelector(s);
 const $$=(s,c=document)=>Array.from(c.querySelectorAll(s));
@@ -115,7 +115,7 @@ if(prompt){
     setTimeout(()=>{
       go.classList.remove('loading');goTxt.textContent='Mulai Buat';
       busy=false;
-      toast('Ide tercatat! Ini demo — builder AI Clincoo segera hadir.');
+      toast('Ide tercatat! Ini demo — builder AI Clinqoo segera hadir.');
     },2100);
   };
   go.addEventListener('click',startBuild);
@@ -145,7 +145,7 @@ if(form){
     if(!d.nama||!d.email||!d.pesan){toast('Lengkapi nama, email, dan pesan dulu ya.');return}
     const body=encodeURIComponent('Nama: '+d.nama+'\nEmail: '+d.email+'\n\n'+d.pesan);
     const a=document.createElement('a');
-    a.href='mailto:hello@clincoo.id?subject='+encodeURIComponent('Tanya Clincoo — '+d.nama)+'&body='+body;
+    a.href='mailto:muzawwied@gmail.com?subject='+encodeURIComponent('Tanya Clinqoo — '+d.nama)+'&body='+body;
     a.click();
     toast('Terima kasih! Aplikasi email akan terbuka untuk mengirim pesanmu.');
     form.reset();

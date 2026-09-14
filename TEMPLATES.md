@@ -49,4 +49,4 @@ Situs portofolio profesional multi-halaman.
 
 ---
 
-> Catatan: alamat repo lama (`Clincoo`, `vylonium`, `vylonium-health`) otomatis diarahkan GitHub ke repo ini.
+> Catatan: alamat repo lama (`Clinqoo`, `vylonium`, `vylonium-health`) otomatis diarahkan GitHub ke repo ini.
